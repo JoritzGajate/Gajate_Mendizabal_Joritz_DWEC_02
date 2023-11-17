@@ -2,15 +2,6 @@
 
 console.log('Empieza el programa')
 
-// ------------------- VARIABLES GLOBALES ------------------------
-
-// capturamos el formulario de introduccion de socios - Ejercicio 1
-const formulario = document.querySelector('#formNombre')
-
-// capturamos el contenedor donde escribiremos los socios - Ejercicio 2
-const contenedorEscribirSocios = document.getElementById(
-  'contenedorPintarSocios'
-)
 
 // Array para añadir los socios
 var arraySocios= new Array()
