@@ -51,7 +51,7 @@ function aniadirSociosInicialesArray (datos) {
 }
 
 /*
-    Metodo para capturar los datos del socio introducidor en el formulario
+    Metodo para capturar los datos del socio introducido en el formulario
     Recoge los valores puestos en las etiquetas input y llama a crearSocio
     para meterlos al array
 */
